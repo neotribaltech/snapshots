@@ -1,11 +1,13 @@
+[![](https://github.com/mixmix/hypermarkdown/raw/master/hypermarkdown_badge.png)](https://hypermarkdown.herokuapp.com)
+
 # Tribal Tech : snapshots
 
 This is a snapshot of the tools different tribes are using. If you're like anything updated, please feel free to open a pull request, or ask to join the repo.
 
 The tribes : 
 
-- [Enspiral](./enspiral.md)
-- [Ouishare](./ouishare.md)
++[Enspiral](./enspiral.md)
++[Ouishare](./ouishare.md)
 
 ---
 
